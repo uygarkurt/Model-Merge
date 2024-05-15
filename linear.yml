@@ -1,0 +1,13 @@
+models:
+  - model: VAGOsolutions/Llama-3-SauerkrautLM-8b-Instruct
+    parameters:
+      weight: 1.0
+  - model: DeepMount00/Llama-3-8b-Ita
+    parameters:
+      weight: 1.0
+  - model: nbeerbower/llama-3-gutenberg-8B
+    parameters:
+      weight: 1.0
+merge_method: linear
+tokenizer_source: union
+dtype: float16
