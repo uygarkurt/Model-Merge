@@ -6,7 +6,7 @@
 		src="https://img.shields.io/badge/Open%20Source%20❤%EF%B8%8F-%2325A162.svg?style=flat"
         style="height: 30px"/>
     </a>
-    <a href="https://youtu.be/gNXBp3wttFU">
+    <a href="https://www.youtube.com/watch?v=yH5vbK6wb1Q">
         <img alt="youtube-tutorial"
         src="https://img.shields.io/badge/YouTube Tutorial-%23FF0000.svg?logo=youtube&logoColor=white&style=flat"
         style="height: 30px"/>
