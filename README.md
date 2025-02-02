@@ -36,10 +36,10 @@ As the main libraries we will be using [mergekit](https://github.com/arcee-ai/me
 
 ## YouTube Tutorial
 <div align="center">
-    <a href="https://youtu.be/gNXBp3wttFU">Model Merging: Merge LLMs to Create Frankestein Models - Python, HuggingFace, Mergekit</a>
+    <a href="https://youtu.be/yH5vbK6wb1Q?si=bHqWT3mkxrbGY7yG">Model Merging: Merge LLMs to Create Frankestein Models - Python, HuggingFace, Mergekit</a>
     <br>
     <br>
-    <a href="https://youtu.be/gNXBp3wttFU">
+    <a href="https://youtu.be/yH5vbK6wb1Q?si=bHqWT3mkxrbGY7yG">
         <img src="./assets/thumbnail1-button.png" height="85%" width="85%%"/>
     </a>
 </div>
